@@ -1,0 +1,23 @@
+sample type
+type2_PD100_A_2	type2_PD100_2
+type2_PD100_B_2	type2_PD100_2
+type2_PD400_A_2	type2_PD400
+type2_PD400_B_2	type2_PD400
+type2_PD450_A_2	type2_PD450
+type2_PD450_B_2	type2_PD450
+type2_PD800_A_2	type2_PD800_2
+type2_PD800_B_2	type2_PD800_2
+type2_PD100_A_1	type2_PD100_1
+type2_PD100_B_1	type2_PD100_1
+type2_PD800_A_1	type2_PD800_1
+type2_PD800_B_1	type2_PD800_1
+type1_PD100_A	type1_PD100
+type1_PD100_B	type1_PD100
+type1_PD350_A	type1_PD350
+type1_PD350_B	type1_PD350
+type1_PD450_A	type1_PD450
+type1_PD450_B	type1_PD450
+type1_PD800_A	type1_PD800
+type1_PD800_B	type1_PD800
+
+
